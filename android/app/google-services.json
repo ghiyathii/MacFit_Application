@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606274303870",
+    "project_id": "macfit-final",
+    "storage_bucket": "macfit-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606274303870:android:2bdacf91d3f2c596c2e52f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7alnYVTiZ2SLwRR5YoMBNqhfZqH31WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606274303870:android:95eaddcd1e2ea1adc2e52f",
+        "android_client_info": {
+          "package_name": "com.example.macfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7alnYVTiZ2SLwRR5YoMBNqhfZqH31WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
